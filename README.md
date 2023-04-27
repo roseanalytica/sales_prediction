@@ -1,2 +1,2 @@
-# sales_prediction
+# Sales Prediction
 Sales Prediction
